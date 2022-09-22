@@ -1,3 +1,5 @@
+// Coding By 김용선.
+
 public class Circle {
     // 클래스 내부에서만 접근을 허용
     private void secret() {
