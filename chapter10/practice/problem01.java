@@ -1,5 +1,3 @@
-package practice;
-
 import java.util.Arrays;
 
 // Coding By 김용선.

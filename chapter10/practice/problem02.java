@@ -1,5 +1,3 @@
-package practice;
-
 // Coding By 김용선.
 
 interface Wordable {

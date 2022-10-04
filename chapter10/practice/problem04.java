@@ -1,5 +1,3 @@
-package practice;
-
 import java.util.function.ToIntFunction;
 import java.util.function.UnaryOperator;
 

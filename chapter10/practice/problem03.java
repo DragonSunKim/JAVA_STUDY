@@ -1,5 +1,3 @@
-package practice;
-
 import java.util.function.IntConsumer;
 
 // Coding By 김용선.
