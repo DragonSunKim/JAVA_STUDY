@@ -1,0 +1,10 @@
+java
+python
+dog
+cat
+computer
+mouse
+animal
+zoo
+game
+internet
